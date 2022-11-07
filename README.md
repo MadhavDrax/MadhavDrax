@@ -23,7 +23,7 @@ MadhavDrax/MadhavDrax is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Gmail Badge](https://img.shields.io/badge/-ajaypandey91700@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhavkeshav123@gmail.com)](mailto:madhavkeshav123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-madhavkeshav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madhavkeshav123@gmail.com)](mailto:madhavkeshav123@gmail.com)
 
 ---
 
