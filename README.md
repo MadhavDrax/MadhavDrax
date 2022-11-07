@@ -37,3 +37,25 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhavDrax&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+         
+
+---
+ 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=MadhavDrax&theme=react-dark)](https://github.com/MadhavDrax/github-readme-activity-graph)
+
+---
+  </code>
+
+![Snake animation](https://github.com/MadhavDrax/MadhavDrax/blob/main/github-contribution-grid-snake.svg)
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
