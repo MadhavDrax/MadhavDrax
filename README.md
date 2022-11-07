@@ -8,8 +8,8 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panditajay73" alt="panditajay73" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panditajay73" alt="panditajay73" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MadhavDrax" alt="MadhavDrax" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhavDrax" alt="MadhavDrax" /> </p>
 ---
 
 - 👋 Hi, I’m @MadhavDrax
