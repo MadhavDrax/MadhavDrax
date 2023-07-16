@@ -14,9 +14,9 @@
 
 - 👋 Hi, I’m @MadhavDrax
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning Web Designing, Python, C++
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 Reach me on Linkedin, liInsta, Discord.
+- 🌱 I’m currently learning Web Designing, Java, Python, C++
+- 💞️ I’m looking to collaborate on Web Projects and ML Projects 
+- 📫 Reach me on Linkedin, Insta, Discord.
 
 <!---
 MadhavDrax/MadhavDrax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
